@@ -25,18 +25,26 @@ I worked on this for my data analytics portfolio to combine SQL analysis with Po
 violence-against-women-analysis/
 │
 ├── data/
-│   └── violence_data.csv          # Original dataset (Kaggle)
+│   └── violence_data.csv                    # Original dataset (Kaggle)
 │
 ├── sql/
-│   └── analysis_queries.sql       # All 16 SQL queries
+│   └── violence_against_women.sql           # SQL analysis queries
 │
-├── documentation/
-│   └── full_analysis.docx         # Complete findings & insights
+├── powerbi/
+│   └── violence_data.pbix                   # Interactive Power BI dashboard
 │
-├── power-bi/
-│   └── violence_dashboard.pbix    # Interactive dashboard
+├── documents/
+│   ├── Violence Against Women and Girls Summarized Analysis.pdf
+│   └── violence_against_women_and_girls.pdf # Complete analysis documentation
 │
-└── README.md                       # You're reading it!
+├── screenshots/
+│   ├── The Big Picture_PAGE 1.png
+│   ├── Who Is At Risk_PAGE 2.png
+│   ├── Educations Power_PAGE 3.png
+│   ├── Why People Justify Violence_PAGE 4.png
+│   └── Country Spotlight_PAGE 5.png
+│
+└── README.md                                 # You're reading it!
 ```
 
 ---
