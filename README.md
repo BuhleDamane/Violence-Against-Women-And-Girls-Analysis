@@ -69,7 +69,7 @@ Breaks down violence justification by age, employment, marital status, and locat
 ### **Page 3: Education's Power**
 Proves that education is the single most powerful intervention against normalized violence. The drop from "no education" to "higher education" is massive.
 
-### **Page 4: Why People Justify Harm**
+### **Page 4: Why People Justify Violence**
 Lists the 6 specific reasons people use to justify violence, ranked from most to least accepted. Some of these were honestly heartbreaking to see.
 
 ### **Page 5: Country Spotlight**
